@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wj/ping/main.cpp
+signal.h
+-
+src/ping.h
+/home/wj/ping/src/ping.h
+
+/home/wj/ping/src/ping.cpp
+ping.h
+/home/wj/ping/src/ping.h
+
+/home/wj/ping/src/ping.h
+iostream
+-
+stdlib.h
+-
+unistd.h
+-
+signal.h
+-
+string
+-
+string.h
+-
+netinet/ip_icmp.h
+-
+netdb.h
+-
+sys/socket.h
+-
+sys/types.h
+-
+sys/time.h
+-
+arpa/inet.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/ping.dir/main.cpp.o CMakeFiles/ping.dir/src/ping.cpp.o  -o ping 

@@ -1,0 +1,3 @@
+/home/wj/ping/CMakeFiles/rebuild_cache.dir
+/home/wj/ping/CMakeFiles/edit_cache.dir
+/home/wj/ping/CMakeFiles/ping.dir
